@@ -3,14 +3,13 @@
 	font-weight: bold;
 	font-family: cursive;
 }
- 
+
 #red {
 	color:  #839192 ;
 	font-weight: bold;
 	font-family: cursive;
 }
- 
- 
+
 a:hover {
 	color: #cc0000;
 	font-weight: bold;
@@ -21,7 +20,7 @@ a:first-child {
     
 color:#CDBE70
 }
- 
+
 a:nth-child(3) {
     color:#FFC125
 }
@@ -43,8 +42,7 @@ p:nth-child(5) {
 li p {
     font-size:30px; 
 }
- 
- 
+
 div {
 	height: 50px;
 width: 100px;
@@ -56,17 +54,16 @@ margin-right: 50px;
 margin-bottom: 10px;
 margin-left: 5px;
 }
- 
- 
+
 img.resize{
    max-width:50%;
    max-height:50%;
 }
- 
+
 .largefont {
   color: #0066FF;
-  font-family:arial;
+  font-family: Arial;
   font-size: 10px;
 } 
- 
+
 /* comment here about a style */
