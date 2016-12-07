@@ -11,13 +11,13 @@
 	
 	<link href="stylesheet.css" rel="stylesheet" type="text/css">
 	<script language="javascript" type="text/javascript" src="processing.js"></script>
-	<script language="javascript" type="text/javascript" src="http://losmediaz.github.io/libraries/sketch.js"></script>
+	<script language="javascript" type="text/javascript" src="libraries/sketch.js"></script>
 </head>
 
 <body onload="function plusDivs(n);">
 
 
-			<center><iframe src="http://losmediaz.github.io/libraries/sketch.j" width="600px" height="400px" border="0"></iframe></center>
+			<center><iframe src="libraries/sketch.j" width="600px" height="400px" border="0"></iframe></center>
 
 	
 	<div id="sketch-holder">
