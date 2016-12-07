@@ -1,13 +1,22 @@
 <!DOCTYPE html>
 <html>
 <title>pieces of pieces</title>
-
+<script src="http://losmediaz.github.io/sketch.js"></script>
+      <script src="sketch.js"></script>
+      
 <link href="stylesheet.css" rel="stylesheet" type="text/css">
     <head>
     <link rel="stylesheet" href="css/style.css">
  <p style="color:darkgray">
 	<acronym title="Carlos A. Medina-Diaz"> CAMD </acronym>    </head>
-    <iframe src="https://losmediaz.github.io/sketch.js" width="600px" height="400px"></iframe>
+   <html>
+    <head>
+      <title>My Sketch</title>
+     
+    </head>
+    <body>
+    </body>
+</html>
 
     <body>
     	<h1 id="top"><center><marquee>Pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces . . . </marquee></center></h1>
