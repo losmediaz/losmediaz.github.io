@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <title>pieces of pieces</title>
-<script src="http://losmediaz.github.io/sketch.js"></script>
-      <script src="sketch.js"></script>
+
+<iframe src="http://losmediaz.github.io/sketch.js"></iframe>
       
 <link href="stylesheet.css" rel="stylesheet" type="text/css">
     <head>
