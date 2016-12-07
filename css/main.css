@@ -65,6 +65,9 @@ img.resize{
   font-family: Arial;
   font-size: 10px;
 } 
+#sketch-holder {
+    align-content: stretch;
+}
 
 
 
