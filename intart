@@ -6,17 +6,18 @@
     <head>
     <link rel="stylesheet" href="css/style.css">
  <p style="color:darkgray">
-	<acronym title="Carlos A. Medina-Diaz"> CAMD </acronym>    
+	<acronym title="Carlos A. Medina-Diaz"> CAMD </acronym>  
+	
+	
 	<link href="stylesheet.css" rel="stylesheet" type="text/css">
 	<script language="javascript" type="text/javascript" src="processing.js"></script>
-	<script language="javascript" type="text/javascript" src="osmediaz.github.io/libraries/sketch.js"></script>
+	<script language="javascript" type="text/javascript" src="http://losmediaz.github.io/libraries/sketch.js"></script>
 </head>
 
 <body onload="function plusDivs(n);">
 
-<h1 id="top"><em><strong><center>HILARY BOND</center></strong></em></h1>
 
-			<center><iframe src="famous.html" width="600px" height="400px" border="0"></iframe></center>
+			<center><iframe src="http://losmediaz.github.io/libraries/sketch.j" width="600px" height="400px" border="0"></iframe></center>
 
 	
 	<div id="sketch-holder">
