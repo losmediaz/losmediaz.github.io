@@ -2,32 +2,47 @@
 <html>
 <title>pieces of pieces</title>
 
-<script type="application/processing">
- <script type='text/javascript' src='cdnjs.cloudflare.com/ajax/libs/p5.js/0.4.9/p5.min.js'></script>
-    <script type='text/javascript' src='cdnjs.cloudflare.com/ajax/libs/p5.js/0.4.9/addons/p5.dom.js'></script>
-    <script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/p5.js/0.4.9/addons/p5.sound.js'></script>
-    <style>
-      html, body {
-        overflow: hidden;
-        margin: 0;
-        padding: 0;
-        background:white;
-      }
-    </style>
-<iframe src="http://losmediaz.github.io/sketch.js"></iframe>
-      
 <link href="stylesheet.css" rel="stylesheet" type="text/css">
     <head>
     <link rel="stylesheet" href="css/style.css">
  <p style="color:darkgray">
 	<acronym title="Carlos A. Medina-Diaz"> CAMD </acronym>    </head>
-   <html>
-    <head>
-      <title>My Sketch</title>
-     
-    </head>
-    <body>
-    </body>
+
+	
+   <canvas id="canvasName" width="500px" height="280px">
+</canvas>
+
+<script type="application/processing" target="canvasName">
+
+function setup() { 
+  createCanvas(600, 400);
+  line(205, 200, 200, 250);
+}
+
+
+function mousePressed() {
+  clear();
+   
+}
+
+var sometext;
+
+
+function draw() { if (mouseIsPressed);
+
+fill(random(255));
+  sometext ="HEY!";
+  textSize(30);
+  text(sometext, random(width-100), random(30,height-25));
+
+  fill(random(25),0,0);
+  textSize(20);
+  text(sometext, random(width-65), random(20,height-5));
+    line(205, 200, 200, 250);
+} 
+void setup () {
+
+</script>    </body>
 </html>
 
     <body>
