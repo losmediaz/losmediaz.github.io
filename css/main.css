@@ -66,10 +66,6 @@ img.resize{
   font-size: 10px;
 } 
 
-function setup() {
-    createcanvas(100, 100);
-    background(255, 0, 200);
-}
 
 
 /* comment here about a style */
