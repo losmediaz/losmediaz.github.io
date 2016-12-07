@@ -6,7 +6,11 @@
     <head>
     <link rel="stylesheet" href="css/style.css">
  <p style="color:darkgray">
-	<acronym title="Carlos A. Medina-Diaz"> CAMD </acronym>    </head>
+	<acronym title="Carlos A. Medina-Diaz"> CAMD </acronym>    
+	<link href="stylesheet.css" rel="stylesheet" type="text/css">
+    <script language="javascript" type="text/javascript" src="processing.js"></script>
+    <script language="javascript" type="text/javascript" src="Famousweb.pde"></script>
+    </head>
 
 	<script src="https://losmediaz.github.io/sketch.js"></script>
     <script src="sketch.js"></script>
