@@ -8,43 +8,13 @@
  <p style="color:darkgray">
 	<acronym title="Carlos A. Medina-Diaz"> CAMD </acronym>    </head>
 
-	
-   <canvas id="canvasName" width="500px" height="280px">
-</canvas>
-
-<script type="application/processing" target="canvasName">
-
-function setup() { 
-  createCanvas(600, 400);
-  line(205, 200, 200, 250);
-}
-
-
-function mousePressed() {
-  clear();
-   
-}
-
-var sometext;
-
-
-function draw() { if (mouseIsPressed);
-
-fill(random(255));
-  sometext ="HEY!";
-  textSize(30);
-  text(sometext, random(width-100), random(30,height-25));
-
-  fill(random(25),0,0);
-  textSize(20);
-  text(sometext, random(width-65), random(20,height-5));
-    line(205, 200, 200, 250);
-} 
-void setup () {
-
-</script>    </body>
-</html>
-
+	<script src="https://losmediaz.github.io/sketch.js"></script>
+    <script src="sketch.js"></script>
+    
+    
+  </head>
+    
+  </head>
     <body>
     	<h1 id="top"><center><marquee>Pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces of pieces . . . </marquee></center></h1>
     	<br>
