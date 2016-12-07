@@ -2,6 +2,18 @@
 <html>
 <title>pieces of pieces</title>
 
+<script type="application/processing">
+ <script type='text/javascript' src='cdnjs.cloudflare.com/ajax/libs/p5.js/0.4.9/p5.min.js'></script>
+    <script type='text/javascript' src='cdnjs.cloudflare.com/ajax/libs/p5.js/0.4.9/addons/p5.dom.js'></script>
+    <script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/p5.js/0.4.9/addons/p5.sound.js'></script>
+    <style>
+      html, body {
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+        background:white;
+      }
+    </style>
 <iframe src="http://losmediaz.github.io/sketch.js"></iframe>
       
 <link href="stylesheet.css" rel="stylesheet" type="text/css">
